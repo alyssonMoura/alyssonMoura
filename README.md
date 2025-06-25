@@ -1,7 +1,7 @@
 # Alysson Rodrigues de Moura
 
 ## Sobre
-Sou profissional de tecnologia com 38 anos de idade e mais de 17 anos de experiência no setor. Minha jornada começou em 2007 e, desde então, venho explorando diversas áreas do desenvolvimento de software. Durante minha trajetória, ministrei cursos de desenvolvimento web com HTML e JavaScript em projetos voltados para escolas estaduais, compartilhando conhecimento e incentivando novos talentos.
+Sou profissional de tecnologia com 49 anos de idade e mais de 15 anos de experiência no setor. Minha jornada começou em 2007 e, desde então, venho explorando diversas áreas do desenvolvimento de software. Durante minha trajetória, ministrei cursos de desenvolvimento web com HTML e JavaScript em projetos voltados para escolas estaduais, compartilhando conhecimento e incentivando novos talentos.
 Formado em Análise e Desenvolvimento de Sistemas pela UNOPAR em 2011, ingressei na PRODEMGE em 2012, onde atuei como desenvolvedor trabalhando com tecnologias como Java, PHP, JavaScript, jQuery, Angular, ExtJS e outras. Em 2021, migrei para a iniciativa privada, integrando equipes da SONDA/CTIS para prestação de serviços ao governo federal. Atualmente, continuo essa jornada na DIGISYSTEM, contribuindo para projetos de grande impacto no setor público.
 
 
